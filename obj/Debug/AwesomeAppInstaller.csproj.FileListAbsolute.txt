@@ -1,0 +1,12 @@
+D:\Visual Studio\AwesomeAppInstaller\AwesomeAppInstaller\obj\Debug\AwesomeAppInstaller.csproj.AssemblyReference.cache
+D:\Visual Studio\AwesomeAppInstaller\AwesomeAppInstaller\obj\Debug\AwesomeAppInstaller.Form1.resources
+D:\Visual Studio\AwesomeAppInstaller\AwesomeAppInstaller\obj\Debug\AwesomeAppInstaller.Properties.Resources.resources
+D:\Visual Studio\AwesomeAppInstaller\AwesomeAppInstaller\obj\Debug\AwesomeAppInstaller.csproj.GenerateResource.cache
+D:\Visual Studio\AwesomeAppInstaller\AwesomeAppInstaller\obj\Debug\AwesomeAppInstaller.csproj.CoreCompileInputs.cache
+D:\Visual Studio\AwesomeAppInstaller\AwesomeAppInstaller\bin\Debug\Awesome App Installer.exe.config
+D:\Visual Studio\AwesomeAppInstaller\AwesomeAppInstaller\bin\Debug\Awesome App Installer.exe
+D:\Visual Studio\AwesomeAppInstaller\AwesomeAppInstaller\bin\Debug\Awesome App Installer.pdb
+D:\Visual Studio\AwesomeAppInstaller\AwesomeAppInstaller\obj\Debug\Awesome App Installer.exe
+D:\Visual Studio\AwesomeAppInstaller\AwesomeAppInstaller\obj\Debug\Awesome App Installer.pdb
+D:\Visual Studio\AwesomeAppInstaller\AwesomeAppInstaller\obj\Debug\AwesomeAppInstaller.Form2.resources
+D:\Visual Studio\AwesomeAppInstaller\AwesomeAppInstaller\obj\Debug\AwesomeAppInstaller.Form3.resources
